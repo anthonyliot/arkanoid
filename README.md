@@ -1,7 +1,7 @@
 <div align="center"><img src="game/assets/screenshot.png"><img src="editor/assets/screenshot.png"></div>
-<h1 align="center"><a href="https://github.com/anthonyliot/arkanoid/releases/tag/v1.0">SHISENSHO</a></h1>
+<h1 align="center"><a href="https://github.com/anthonyliot/arkanoid/releases/tag/v1.0">ARKANOID</a></h1>
 <p align="center">
-<strong>Japanese tile-based game in java</strong>
+<strong>Block breaker game in java</strong>
 <br>2007
 </p>
 <br/>
